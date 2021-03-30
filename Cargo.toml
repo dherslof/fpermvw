@@ -2,6 +2,10 @@
 name = "fpermvw"
 version = "0.1.0"
 authors = ["daniel herslof <d_herslof@hotmail.com>"]
+license = "MIT"
+homepage = "https://github.com/dherslof/fpermvw"
+repository = "https://github.com/dherslof/fpermvw"
+readme = "readme.md"
 description = "File permission viewer"
 edition = "2018"
 
